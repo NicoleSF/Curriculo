@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+	background-image: url(../img/fundo.jpg);
+}
+
+*{
+	font-family: Verdana;
+	
+}
+
+h1{
+	font-variant: small-caps;
+}
+
+h2{
+	text-shadow:2px 2px 4px grey;
+}
+
+#imagemPerfil{
+	max-width: 200px;
+	position: absolute;
+	left: 1100px;
+	bottom: 380px;
+}
+
+.icones{
+	max-width: 50px;
+	
+}
